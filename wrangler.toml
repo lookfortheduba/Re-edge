@@ -56,6 +56,6 @@ head_sampling_rate = 0.1
 # [KV Namespace]
 # Run `npx wrangler kv namespace create edgetunnel` to get the ID
 # Replace "your-kv-id-here" with the ID you got
-[[kv_namespaces]]
-binding = "KV"
-id = "f0e9d8f3e79742ccad9762258618dfe6"
+# [[kv_namespaces]]
+# binding = "KV"
+# id = ""
